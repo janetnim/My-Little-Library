@@ -1,0 +1,14 @@
+{
+  "name": "nodeMongo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "<janetnim4012gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "moment": "^2.23.0",
+    "mongoose": "^5.4.4",
+    "nodemon": "^1.18.9"
+  }
+}
